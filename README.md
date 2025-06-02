@@ -31,7 +31,7 @@ These are LGBTQ+ pride flag icons. We've made these specifically for Resonite - 
 # Why make this?
 Both our team and community have a lot of LGBTQ+ members and we want to support them and their representation. Pride badges were already popular with badge injectors, with many users wearing them on name badges - but those would not display when custom name badges were off. We decided to add these officially, so they will always display!
 
-Pride month of 2025 provided a good excuse to do this, however these are staying even beyond that!
+Pride month of 2025 provided a good excuse to do this, however these are staying even beyond that, they're a permanent addition to Resonite! We don't want to be just another company that turns out logo rainbow for a month and then forgets for the rest of the year - and that's not just because our default logo is already rainbow! 
 
 # Why make this repository public and CC0?
 - We want people to use them! If you want to use them in your own project to provide LGBTQ+ representation, please do!
