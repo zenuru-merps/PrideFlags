@@ -14,3 +14,6 @@ Pride month of 2025 provided a good excuse to do this, however these are staying
 
 # Do I need to credit you when I use these?
 You don't! CC0 doesn't require attribution. However if you do decide to give us a shoutout it's very much appreciated!
+
+# Where are the flags sourced from?
+The initial set (created by ChromaShiba) has been based on this: https://www.hrc.org/resources/lgbtq-pride-flags
