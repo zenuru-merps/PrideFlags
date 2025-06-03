@@ -5,9 +5,9 @@
   </mask>
   <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
     <rect width="5" height="5" fill="#5bcffa" />
-    <rect width="5" height="4" fill="#f1a5b5" />
+    <rect width="5" height="4" fill="#f5a8b8" />
     <rect width="5" height="3" fill="#ffffff" />
-    <rect width="5" height="2" fill="#f1a5b5" />
+    <rect width="5" height="2" fill="#f5a8b8" />
     <rect width="5" height="1" fill="#5bcffa" />
   </g>
 </svg>
