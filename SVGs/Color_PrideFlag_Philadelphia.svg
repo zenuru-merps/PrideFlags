@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 8 8">
-  <g clip-path="rect(0 8 8 0 round 1px)">
+  <mask id="m">
+    <rect width="8" height="8" fill="#fff" rx="1.85" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
     <rect width="8" height="8" fill="#c22edc" />
     <rect width="8" height="7" fill="#0644b3" />
     <rect width="8" height="6" fill="#119f0b" />

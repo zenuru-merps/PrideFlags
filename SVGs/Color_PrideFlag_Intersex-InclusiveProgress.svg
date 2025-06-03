@@ -1,7 +1,10 @@
-<!-- https://commons.wikimedia.org/wiki/File:Intersex-inclusive_pride_flag.svg -->
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- https://commons.wikimedia.org/wiki/File:Intersex-inclusive_pride_flag.svg -->
 <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 3810 3810">
-  <g clip-path="rect(0 3810 3810 0 round 750px)">
+  <mask id="m">
+    <rect width="3810" height="3810" fill="#fff" rx="881.063" />
+  </mask>
+  <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
     <path fill="#6d2380" d="M0 0h3810v3810H0z"/>
     <path fill="#2c58a4" d="M0 0h3810v3175H0z"/>
     <path fill="#78b82a" d="M0 0h3810v2540H0z"/>
