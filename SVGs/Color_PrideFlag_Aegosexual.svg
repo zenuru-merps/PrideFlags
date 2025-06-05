@@ -7,15 +7,15 @@
     <path d="M0 0 10 20 20 0V10H0Z" fill="#fff" />
   </mask>
   <g mask="url(#m)" transform="scale(0.97)" transform-origin="center">
-    <rect width="20" height="20" fill="#9a0779" />
-    <rect width="20" height="15" fill="#fefefe" />
-    <rect width="20" height="10" fill="#fefefe" />
-    <rect width="20" height="5" fill="#9a0779" />
+    <rect width="20" height="20" fill="#800080" />
+    <rect width="20" height="15" fill="#ffffff" />
+    <rect width="20" height="10" fill="#ffffff" />
+    <rect width="20" height="5" fill="#800080" />
     <g mask="url(#t)">
-      <rect width="20" height="20" fill="#010101" />
-      <rect width="20" height="15" fill="#9f9f9f" />
-      <rect width="20" height="10" fill="#9f9f9f" />
-      <rect width="20" height="5" fill="#010101" />
+      <rect width="20" height="20" fill="#000000" />
+      <rect width="20" height="15" fill="#a3a3a3" />
+      <rect width="20" height="10" fill="#a3a3a3" />
+      <rect width="20" height="5" fill="#000000" />
     </g>
   </g>
 </svg>
